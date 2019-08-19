@@ -1,0 +1,19 @@
+.resume-content {
+  width: 70%;
+}
+
+.resume-date.text-md-right > img {
+  width: 430px; 
+}
+
+.resume-pdf {
+  font-weight: 700;
+  text-align: center;
+  color: #BD5D38; 
+  cursor: pointer; 
+  text-decoration: none; 
+}
+
+.resume-pdf:hover {
+  text-decoration: none; 
+}
